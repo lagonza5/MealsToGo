@@ -19,6 +19,18 @@ You have a "local" build that will run while your development environment is run
 ## Publishing your app to the App Store or Google Play Store
 Note here that "publishing your app to expo" is NOT the same as publishing your app to the app store.
 
+## Debugging
+In Expo Go client shake your device to pull up the menu. 
+
+Helpful tools:
+
+- Show Performance Monitor:
+FPS of UI and JS
+
+- Show Element Inspector:
+Tap something to inspect it
+
+
 ## Navigation
 
 ### Launching point
