@@ -36,3 +36,15 @@ Tap something to inspect it
 ### Launching point
 
 file: ./App.js
+
+## Standards
+
+## Packages & Dependencies 
+
+- expo
+- expo-status-bar
+- react
+- react-native
+- babel/core
+- react-native-paper
+- 
