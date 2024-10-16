@@ -10,9 +10,15 @@ import { SafeAreaView, StyleSheet, Text, View, Platform, StatusBar } from 'react
 export default function App() {
   return (
     <SafeAreaView style={styles.safeContainer}>
-      <View>
-        <Text>React Native application, blank canvas</Text>
+
+      <View style={styles.searchContainer}>
+        <Text>Search</Text>
       </View>
+
+      <View style={styles.listContainer}>
+        <Text>List</Text>
+      </View>
+
     </SafeAreaView>
   );
 }
@@ -20,5 +26,14 @@ export default function App() {
 const styles = StyleSheet.create({
   safeContainer: {
     flex: 1,
+  },
+  searchContainer: {
+    backgroundColor: 'green',
+    padding: 20,
+  },
+  listContainer: {
+    flex: 1,
+    backgroundColor: 'blue',
+    padding: 20,
   },
 });
