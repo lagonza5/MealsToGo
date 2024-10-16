@@ -46,5 +46,7 @@ file: ./App.js
 - react
 - react-native
 - babel/core
-- react-native-paper
-- 
+
+### React Native Paper
+- react-native-paper, command "yarn add react-native-paper"
+- react-native-safe-area-context, command "yarn add react-native-safe-area-context",  from version 5 there is a need to install react native safe area context for handling safe area
