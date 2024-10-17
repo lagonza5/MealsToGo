@@ -39,6 +39,12 @@ file: ./App.js
 
 ## Standards
 
+1. styled components
+- Gives meaning to the components that need to be styled.
+[Link](https://styled-components.com/docs/basics)
+
+- Command: "yarn add styled-components"
+
 ## Packages & Dependencies 
 
 - expo
