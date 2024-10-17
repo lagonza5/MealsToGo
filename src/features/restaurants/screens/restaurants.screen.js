@@ -1,7 +1,7 @@
 import React from 'react';
 import { Searchbar } from 'react-native-paper';
 import { SafeAreaView, StyleSheet, Text, View, StatusBar } from 'react-native';
-import { RestaurantInfo } from '../components/restaurant-info.component'
+import { RestaurantInfo } from '../components/restaurant-info-card.component'
 
 export const RestaurantsScreen = () => (
   <SafeAreaView style={styles.safeContainer}>
